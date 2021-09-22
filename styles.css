@@ -1,0 +1,392 @@
+*
+{
+    font-family:sans-serif;
+}
+.logo 
+{
+    margin-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.navbar-expand-lg .navbar-collapse 
+{
+    display: flex!important;
+    flex-basis: auto;
+    align-content: flex-end;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 150px;
+    font-size: medium;
+}
+.navbar-left 
+{
+    float: left;
+    margin-left: 15px;
+  }
+ .nav-link:hover 
+{
+    color:#008BDC;
+}
+.dropdown, .dropend, .dropstart, .dropup 
+{
+    position: relative;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+
+.btn-outline-primary
+{
+    color:#008BDC;
+    background-color: transparent;
+    border-color: #0d6efd;
+}
+.btn-outline-primary:hover
+ {
+    color: #006BC2;
+    background-color: transparent;
+    border-color: #006BC2;
+    box-shadow: 0 2px 4px rgba(0,0,0,.08);
+}
+.navbar-expand-lg .navbar-nav 
+{
+    flex-direction: row;
+    margin-top: 10px;
+}
+#button-reg
+{
+    background-color: #008BDC;
+    color: white;
+    border-radius: 5px;
+    width: 132px;
+    text-align: center;
+    margin-top: 5px;
+}
+#button-reg:hover
+{
+    background-color: #006BC2;
+    color: white;
+    border-radius: 5px;
+}
+
+#id1  ul  li   a:hover
+{
+    color: #008BDC;
+}
+
+.d-flex 
+{
+    display: flex!important;
+    margin-left: 537px;
+    margin-right: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.me-2 
+{
+    margin-right: .5rem!important;
+    height: 55px;
+    width: 500px;
+}
+.form-control:focus 
+{
+    color: #212529;
+    background-color: #fff;
+    border-color: #ffffff;
+    outline: 0;
+    box-shadow: 0 0 0 .25rem rgba(151, 151, 151, 0.25);
+}
+.btn-outline-success
+{
+    color: #fff;
+    background-color: #008BDC;
+    border-color: #008BDC;
+}
+.btn-outline-success:hover 
+{
+    color: #fff;
+    background-color: #006BC2;
+    border-color: #006BC2;
+}
+body  form  button  img
+ {
+    width: 27px;
+}
+body  div  h2 
+{
+    margin-top: 50px;
+}
+body  div  div.container  div  div:nth-child(1)  p
+{
+    font-size: x-large;
+    font-weight: 400;
+    opacity: 90%;
+    margin-bottom: 47px;
+}
+body  div  div.container 
+{
+    margin-left: -14px;
+    margin-top: 15px;
+}
+body  div  div.container  div  div:nth-child(2)  span 
+{
+    font-weight: 400;
+    font-weight: bolder;
+    font-size: larger;
+    color: #008BDC;
+}
+body  div  div.container  div  div:nth-child(2)
+{
+    text-align: right;
+}
+body  div  div.d-flex.justify-content-between
+{
+    display: flex!important;
+    margin-right: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p-2 bd-highlight 
+{
+    margin-right: 50px;
+    margin-top: 34px;
+}
+.cities 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 27px;
+}
+.imagecity
+{
+    display: flex;
+    border-radius: 6px;
+    padding: 16px 4px 24px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 500;
+    color: #212529;
+}
+.imagecity:hover
+{
+    display: flex;
+    padding: 16px 4px 24px;
+    border-radius: 6px;
+    color: #006BC2;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 12%);
+}
+.citytext
+{
+    padding-top: inherit;
+    text-align: center;
+}
+body  div  h4 
+{
+    font-size: 22px;
+}
+body  div  h4
+ {
+    margin-top: 27px;
+}
+
+body  div  div.row  div
+{
+    text-align: right;
+}
+body  div  div.row  div  span 
+{
+    font-weight: 400;
+    font-weight: bolder;
+    font-size: larger;
+    color: #008BDC;
+}
+body  div  div.row  div  p 
+{
+    font-size: x-large;
+    font-weight: 400;
+    opacity: 90%;
+    margin-bottom: 47px;
+}
+body  div  div.row 
+{
+    margin-top: 30px;
+}
+body  div  div:nth-child(10)
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#more
+{
+    text-align: center;
+    margin-top: 30px;
+}
+#fresher 
+{
+    margin-top: 100px;
+}
+#fresher  span 
+{
+    background-color: #FF8C00;
+    border-radius: 3px;
+    font-size: 23px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: white;
+    width: 61px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.cities1
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 27px;
+}
+body  div  div.cities1  a:nth-child(2)
+{
+    margin-right: 220px;
+    margin-left: 220px;
+}
+.typecity
+{
+    display: flex;
+    border-radius: 6px;
+    padding: 16px 4px 24px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 500;
+    color: #212529;
+}
+.typecity:hover
+{
+    border-radius: 6px;
+    padding: 16px 4px 24px;
+    align-items: center;
+    border-radius: 6px;
+    
+}
+.citytext1
+{
+    padding-top: inherit;
+    text-align: center;
+    font-weight: bold;
+    color: darkslategray;
+}
+body  nav
+ {
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 15%);
+}
+#footer 
+{
+    background-color: #333;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+.classfoo
+{
+    margin-top: 40px;
+    margin-bottom: 16px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.interntype  a
+{
+    text-decoration: none;
+    color: white;
+}
+.listitem  h5 
+{
+    font-size: large;
+}
+.interntype 
+{
+    padding-top: 5px;
+}
+.footer2 
+{
+    border-top: 1px solid #666;
+    padding-top: 24px;
+    padding-bottom: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#footer  div.footer2  a 
+{
+    font-weight: 500;
+    text-decoration: none;
+    color: #008BDC;
+    cursor: pointer;
+    line-height: 1.14285714;
+}
+#footer  div.footer2  a  div 
+{
+    display: inline-block;
+    color: #fff;
+    margin-right: 32px;
+    border: 1px solid #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+#footer  div.footer2  a  div  span 
+{
+    position: relative;
+    bottom: 6px;
+    vertical-align: bottom;
+}
+#footer  div.footer2  a  div  img 
+{
+    width: 24px;
+}
+.socialsbox 
+{
+    display: inline-block;
+    padding: 9px 0;
+}
+
+.socimg 
+{
+    width: 40px;
+    padding-right: 15px;
+}
+
+
+#drop  span 
+{
+    background-color: #FF8C00;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    padding: 3px 6px;
+    margin-left: 6px;
+    letter-spacing: .5px;
+}
+#footer  div  a 
+{
+    text-decoration: none;
+}
+.carousel-indicators [data-bs-target] 
+{
+    background-color: #000;
+}
